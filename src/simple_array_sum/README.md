@@ -1,0 +1,1 @@
+## Solution for problem:https://www.hackerrank.com/challenges/simple-array-sum/

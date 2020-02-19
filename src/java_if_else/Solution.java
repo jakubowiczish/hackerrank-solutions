@@ -1,8 +1,12 @@
 package java_if_else;
 
-// ALL THESE IMPORTS ARE NECESSARY FOR TESTS TO PASS,
-// EVEN THOUGH INTELLIJ IS RIGHT AND SEES THEM AS UNNECESSARY
-
+import java.io.*;
+import java.math.*;
+import java.security.*;
+import java.text.*;
+import java.util.*;
+import java.util.concurrent.*;
+import java.util.regex.*;
 import java.util.Scanner;
 
 /*

@@ -1,1 +1,1 @@
-##### Beware that all the imports source code files that may seem to be unnecessary, are needed for the tests on https://www.hackerrank.com/ to pass.
+##### Beware that all the imports in source code files that may seem to be unnecessary, are needed for the tests on https://www.hackerrank.com/ to pass.

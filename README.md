@@ -41,3 +41,8 @@
 
 1. https://www.hackerrank.com/challenges/compare-the-triplets/
 
+1. https://www.hackerrank.com/challenges/weather-observation-station-3/
+1. https://www.hackerrank.com/challenges/weather-observation-station-4/
+1. https://www.hackerrank.com/challenges/revising-aggregations-sum/
+1. https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/
+1. https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/

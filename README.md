@@ -46,3 +46,4 @@
 1. https://www.hackerrank.com/challenges/revising-aggregations-sum/
 1. https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/
 1. https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/
+1. https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/

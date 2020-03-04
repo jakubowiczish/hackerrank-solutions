@@ -58,3 +58,4 @@
 1. https://www.hackerrank.com/challenges/bash-tutorials---looping-and-skipping/
 
 1. https://www.hackerrank.com/challenges/2d-array/
+1. https://www.hackerrank.com/challenges/arrays-ds/

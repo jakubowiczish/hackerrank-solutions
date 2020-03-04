@@ -41,11 +41,20 @@
 
 1. https://www.hackerrank.com/challenges/compare-the-triplets/
 
-1. https://www.hackerrank.com/challenges/weather-observation-station-3/
-1. https://www.hackerrank.com/challenges/weather-observation-station-4/
-1. https://www.hackerrank.com/challenges/revising-aggregations-sum/
-1. https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/
-1. https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/
-1. https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/
-1. https://www.hackerrank.com/challenges/bash-tutorials-lets-echo/
-1. https://www.hackerrank.com/challenges/bash-tutorials---looping-and-skipping/
+1. https://www.hackerrank.com/challenges/weather-observation-station-3/
+
+1. https://www.hackerrank.com/challenges/weather-observation-station-4/
+
+1. https://www.hackerrank.com/challenges/revising-aggregations-sum/
+
+1. https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/
+
+1. https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/
+
+1. https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/
+
+1. https://www.hackerrank.com/challenges/bash-tutorials-lets-echo/
+
+1. https://www.hackerrank.com/challenges/bash-tutorials---looping-and-skipping/
+
+1. https://www.hackerrank.com/challenges/2d-array/

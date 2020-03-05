@@ -63,3 +63,4 @@
 1. https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/
 1. https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list/
 1. https://www.hackerrank.com/challenges/get-the-value-of-the-node-at-a-specific-position-from-the-tail/
+1. https://www.hackerrank.com/challenges/30-data-types/

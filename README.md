@@ -66,3 +66,4 @@
 1. https://www.hackerrank.com/challenges/30-data-types/
 1. https://www.hackerrank.com/challenges/30-conditional-statements/
 1. https://www.hackerrank.com/challenges/30-class-vs-instance/
+1. https://www.hackerrank.com/challenges/30-operators/
